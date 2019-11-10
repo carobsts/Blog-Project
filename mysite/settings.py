@@ -24,7 +24,7 @@ SECRET_KEY = 'f@q_-+m7gpl88nhpe8!v_r@7$vfjfl!4bgtm=b_(rh$rf+w@v5'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-ALLOWED_HOSTS = ['carobsts.pythonanywhere.com']
+ALLOWED_HOSTS = ['carobsts.pythonanywhere.com', 'localhost']
 
 
 # Application definition
